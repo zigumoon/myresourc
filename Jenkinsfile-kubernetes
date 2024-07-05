@@ -76,7 +76,7 @@ spec:
                 githubRepo = 'myresourc'
                 githubURL = "https://github.com/${githubId}/${githubRepo}.git"
                 dockerhubId = 'zigumoon'
-                dockerhubRepo = 'newwebapp'                
+                dockerhubRepo = 'mywebapp'                
             }
             steps {
                 container('git') {
