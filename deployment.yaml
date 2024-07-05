@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: zigumoon/mywebapp:5
+        image: zigumoon/mywebapp:6
         ports:
         - containerPort: 8080
